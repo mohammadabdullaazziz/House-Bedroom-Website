@@ -11,7 +11,7 @@
 header{
   width: 100%;
   height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.425) , rgba(0, 0, 0, 0.425)), url("bedroom.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.425) , rgba(0, 0, 0, 0.425)), url("image/bedroom.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -121,6 +121,5 @@ button:hover span{
 button:hover{
   border: none;
 }
-
 
 /* banner section code end */
